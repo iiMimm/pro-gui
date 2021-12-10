@@ -1,6 +1,8 @@
 --[[
 a random gui whit things like skided aimbot and hbe, made in an hour in colaboration
-loadstring("https://raw.githubusercontent.com/iiMimm/random-scripts-on-lua/main/random%20gui.lua")()
+loadstring VVV
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iiMimm/random-scripts-on-lua/main/random%20gui.lua",true))()
 ]]
 
 _AWaJXnkXALQzhdjP, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
