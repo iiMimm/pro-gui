@@ -1,5 +1,5 @@
 --[[
-a random gui whit things like skided aimbot and hbe, made in an hour in colaboration whit badaura}
+a random gui whit things like skided aimbot and hbe, made in an hour in colaboration whit badau, made for a friend so has whiteist
 loadstring VVV
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iiMimm/random-scripts-on-lua/main/random%20gui.lua",true))()
